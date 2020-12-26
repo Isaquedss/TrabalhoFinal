@@ -4,4 +4,4 @@
 ###  - Isaque da Silva Silveira
 ###  - Leandro Henrick S. Nunes
 
-![Alt text]( https://media.giphy.com/media/td4Zgz8cjKDrXixx2D/giphy.gif"")
+![Alt text]( https://media.giphy.com/media/td4Zgz8cjKDrXixx2D/giphy.gif "")
